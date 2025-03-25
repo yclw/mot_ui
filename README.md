@@ -1,3 +1,1 @@
-# kmot
-
-A new Flutter project.
+# mot_ui

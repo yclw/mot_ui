@@ -1,5 +1,5 @@
-name: kmot
-description: "A new Flutter project."
+name: mot_ui
+description: "A Flutter ui for Mot."
 publish_to: 'none'
 version: 0.1.0
 

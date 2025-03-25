@@ -67,7 +67,6 @@ class DrawerListTitle extends StatelessWidget {
     return ListTile(
       onTap: onTap,
       title: Text(title),
-      // 并不是所有的图标都有，所以使用svg图片
       leading: SvgPicture.asset(
         svgSrc,
         height: 24,
