@@ -18,4 +18,4 @@ lib/
 ```
 
 ### **界面结构：**
-​	![静态ui](image/静态ui.png)
+​	![静态ui](docs/静态ui.png)
