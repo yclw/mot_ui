@@ -17,3 +17,5 @@ lib/
     └── home_page.dart  # 主界面布局实现
 ```
 
+### **界面结构：**
+​	![静态ui](image/静态ui.png)
