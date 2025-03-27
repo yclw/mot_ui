@@ -19,3 +19,12 @@ lib/
 
 ### **界面结构：**
 ​	![静态ui](docs/静态ui.png)
+​	![静态ui2](docs/静态ui2.png)
+
+### **依赖库：**
+```
+  cupertino_icons: ^1.0.8  # 图标
+  google_fonts: ^6.2.1    # 字体
+  flutter_svg: ^2.0.17    # svg图片
+  syncfusion_flutter_charts: ^28.2.7 # 图表
+```
